@@ -1,1 +1,3 @@
 prvy riadok vylepseny o par slov
+
+pridany dalsi riadok v logine

@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 function app():
 	if (loggedIN()):
-		//redirect
-
+		//redirect to homepage
+	else:
+		//redirect to register
 
 function loggedIn():
 	return true;
+

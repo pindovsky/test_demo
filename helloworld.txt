@@ -1,3 +1,6 @@
 prvy riadok vylepseny o par slov
 
+<<<<<<< HEAD
 pridany dalsi riadok v logine
+=======
+>>>>>>> register

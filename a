@@ -1,0 +1,42 @@
+[33mcommit d7c2fc728f01c49e961b711a0b6cdb089d1871b7[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m, [m[1;31morigin/login[m[33m)[m
+Author: pindo <pindo7@gmail.com>
+Date:   Wed Aug 19 10:30:16 2020 +0200
+
+    pridal som login form
+
+[33mcommit 0c77706910bc080e03c588b83eaa7bb96eadb629[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 993091f 00a37a1
+Author: pindo <pindo7@gmail.com>
+Date:   Tue Aug 18 17:39:13 2020 +0200
+
+    konflik vyrieseny
+
+[33mcommit 993091f0cb8ff2c08eece87d4f1617c82c84e6f9[m
+Author: pindo <pindo7@gmail.com>
+Date:   Tue Aug 18 17:35:32 2020 +0200
+
+    update textaku
+
+[33mcommit 00a37a1f5b7587ee7e777d5167f8f2152684c3e4[m
+Author: pindovsky <57040673+pindovsky@users.noreply.github.com>
+Date:   Tue Aug 18 17:34:27 2020 +0200
+
+    Update helloworld.txt
+
+[33mcommit ed57b40f100ef2efc4d0708c00ff18d4b99af668[m
+Author: pindovsky <57040673+pindovsky@users.noreply.github.com>
+Date:   Tue Aug 18 17:20:05 2020 +0200
+
+    Vymazal som readme
+
+[33mcommit 488c8e690b13d496814aa2a10258a1eacecc882e[m
+Author: pindo <pindo7@gmail.com>
+Date:   Tue Aug 18 17:14:40 2020 +0200
+
+    pridal som textak s prvym riadkom
+
+[33mcommit 7b0d3a0996649da8682aa084c98f393a4737993b[m
+Author: pindo <pindo7@gmail.com>
+Date:   Tue Aug 18 17:11:06 2020 +0200
+
+    first commit

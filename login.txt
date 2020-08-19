@@ -1,2 +1,7 @@
+function app():
+	if (loggedIN()):
+		//redirect
+
+
 function loggedIn():
 	return true;
